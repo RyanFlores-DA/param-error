@@ -1,0 +1,12 @@
+{
+    "vendas":[
+        "data_inicio",
+        "data_fim",
+        "adq_id"
+    ],
+    "recebimentos":[
+        "data_inicio",
+        "data_fim",
+        "status_id"
+    ]
+}

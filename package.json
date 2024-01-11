@@ -2,7 +2,7 @@
   "name": "param-error",
   "version": "1.0.0",
   "description": "missing params erros",
-  "main": "app.js",
+  "main": "param-error.js",
   "scripts": {
     "test": "npm test"
   },
